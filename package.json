@@ -1,10 +1,10 @@
 {
-  "name": "html-css-starter-project-with-BrowserSync-liveReload",
+  "name": "template-simple",
   "version": "1.0.0",
   "description": "Starter project for html and css live reload with browser-sync",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "dev": "node app.ts"
   },
   "author": "Suprokash Chakraborty",
   "license": "MIT",
